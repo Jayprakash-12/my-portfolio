@@ -10,7 +10,7 @@ It showcases my projects, skills, and ways to contact me.
 ## ⚡ Tech Stack
 - **React** (Frontend)
 - **Vite** (Bundler)
-- **Tailwind CSS** (Styling, if you used it)
+- **Tailwind CSS** 
 - **Vercel** (Deployment)
 
 ---
